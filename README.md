@@ -1,7 +1,4 @@
 # programacionAnahuac
-<<<<<<< HEAD
-ESte repositorio será el almacenamiento de los proyectos en la asignatura de Programación en la Anahuac Veracruz 
-=======
 Este repositorio será el almacenamiento de los proyectos en la asignatura de Programación en la Anahuac Veracruz 
 Todos estos programas estan diseñados para Python 3.8.20
 Comandos para crear el entorno en Anaconda Prompt e instalar las bibliotecas
@@ -14,4 +11,3 @@ Atte:
   / _ \ / _` | '__| |/ _` | '_ \  \___ \ / _` | '_ \ / __| '_ \ / _ \_  /
  / ___ \ (_| | |  | | (_| | | | |  ___) | (_| | | | | (__| | | |  __// / 
 /_/   \_\__,_|_|  |_|\__,_|_| |_| |____/ \__,_|_| |_|\___|_| |_|\___/___|
->>>>>>> 06ae9ae (Primer commit con el código)
